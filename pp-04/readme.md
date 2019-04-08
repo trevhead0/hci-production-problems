@@ -25,3 +25,6 @@ Small commits to your Production Problems repository that include:
 
 * HCI Guideline One (URL):https://material.io/design/color/#color-theme-creation
 * Describe how you implemented that guideline in your sketch: I wanted a uniform color with a light and dark theme to it.  I chose to go dark and light green.  This could just as easily be swapped out with other colors as long as there is a dark and light according to color suggestions for android.  With this i made nav/notification bar darker green to distinguish it from the lighter primary content that would be following.  
+
+* HCI Guideline Two (URL):https://material.io/design/components/bottom-navigation.html#theming
+* Describe how you implemented that guideline in your sketch:This guideline goes into how a bottom-nav should be formed.  The concept behind having 5 different tabs to go to in the website makes the bottom nav bar great!  With it I used active page has text and others just have an icon.  In the image I used black ink to show text under image, I would have them be a uniform color like the do of coloring nav.(following color scheme mentioned earlier)
