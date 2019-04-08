@@ -23,11 +23,5 @@ Small commits to your Production Problems repository that include:
 2. an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guideline One (URL):
-* Describe how you implemented that guideline in your sketch:
-
-* HCI Guideline Two (URL):
-* Describe how you implemented that guideline in your sketch:
-
-* HCI Guideline Three (URL):
-* Describe how you implemented that guideline in your sketch:
+* HCI Guideline One (URL):https://material.io/design/color/#color-theme-creation
+* Describe how you implemented that guideline in your sketch: I wanted a uniform color with a light and dark theme to it.  I chose to go dark and light green.  This could just as easily be swapped out with other colors as long as there is a dark and light according to color suggestions for android.  With this i made nav/notification bar darker green to distinguish it from the lighter primary content that would be following.  
