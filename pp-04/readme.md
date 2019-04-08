@@ -28,3 +28,6 @@ Small commits to your Production Problems repository that include:
 
 * HCI Guideline Two (URL):https://material.io/design/components/bottom-navigation.html#theming
 * Describe how you implemented that guideline in your sketch:This guideline goes into how a bottom-nav should be formed.  The concept behind having 5 different tabs to go to in the website makes the bottom nav bar great!  With it I used active page has text and others just have an icon.  In the image I used black ink to show text under image, I would have them be a uniform color like the do of coloring nav.(following color scheme mentioned earlier)
+
+* HCI Guideline Three (URL):https://material.io/design/communication/writing.html#content-structure
+* Describe how you implemented that guideline in your sketch:The discriptions were not as to the point as the guidance would push for.  What seemed liked a paragraph can be described with fewer words.  It also says to use 12345 instead of words discribing the numbers....i.e.one,two,three...  The entire wording could be restructured.  The main title for the content is also shortened in my sketch to illustrate the guideline of making the point(membership) and not needing to have multiple lines for the title(this could also be pointed towards topography selection)
