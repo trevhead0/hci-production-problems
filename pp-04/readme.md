@@ -12,8 +12,6 @@ want to do multiple sketches, each highlighting a different feature of the same 
 
 ## Resources
 
-* Apple iOS HCI Guidlines:
-  https://developer.apple.com/design/human-interface-guidelines/
 * Android Guidelines:
   https://developer.android.com/design
 
